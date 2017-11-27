@@ -1,0 +1,77 @@
+User-agent: Baiduspider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Googlebot
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: MSNBot
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Baiduspider-image
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: YoudaoBot
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Sogou web spider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Sogou inst spider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Sogou spider2
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Sogou blog
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Sogou News Spider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Sogou Orion spider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: ChinasoSpider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: Sosospider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: yisouspider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: EasouSpider
+Disallow: /images
+Disallow: /style
+Disallow: /FindServlet
+
+User-agent: *
+Disallow: /
